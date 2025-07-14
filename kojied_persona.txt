@@ -1,0 +1,79 @@
+**Reddit User: kojied - Detailed Persona**
+
+---
+
+### **Age Group**: Late 20s to early 30s  
+**Evidence**:  
+- In their post "*I feel violated by intern season*," they describe feeling alienated by 18–20-year-olds in a bar and being called "the old person." They add, "I’ve only been here for **three years**" (NYC), implying they’re past early-career intern age but young enough to contrast with college students.  
+- Participates in r/GenZ but critiques "boomer and millennial" media, suggesting proximity to Gen-Z culture (born ~1997-2012).  
+
+---
+
+### **Likely Gender**: Male  
+**Evidence**:  
+- In r/seduction, discusses strategies for attracting women: "*Dating apps... around 1/3 of [comments] materialize into matches... those in their early 20s*" ([source](https://www.reddit.com/r/seduction/comments/...)).  
+- Advises another user on hairstyles and fashion with phrases like "*if you're trying to be 'conventionally attractive'...*" ([source](https://www.reddit.com/r/GenZ/comments/...)), typical of male-centric grooming discourse.  
+
+---
+
+### **Occupation or Field**: **Software Developer (iOS/visionOS specialist)**  
+**Evidence**:  
+- Explicitly states: "*I’m an iOS developer building in visionOS*" ([VisionOSDev post](https://www.reddit.com/r/visionosdev/comments/1b3yugb/...)).  
+- Technical discussions on Vision Pro limitations: "*Without GitHub and Visual Studio Code... renewing my MBP*" ([source](https://www.reddit.com/r/VisionPro/comments/1aiwqa2/...)).  
+
+---
+
+### **Hobbies/Interests**:  
+1. **AR/VR Development**: Advocates for Pokémon Go on Vision Pro and troubleshoots spatial computing tools.  
+2. **Gaming**: Deep engagement in *Manor Lords* (strategy), *Civ5* ("*Hermit with internal trade routes*"), and *Project Zomboid*.  
+3. **Anime/Fandom**: Analyzes *One Piece* lore ("*WG is Western civilization... Pacifistas = AI*") and references *Edgerunners*.  
+4. **Urban Exploration**: Frequently comments on NYC bars, food spots, and transit (e.g., "*Double Chicken Please*" in r/FoodNYC).  
+5. **Sustainability**: Designed an individual ESG-tracking app, writing, "*Companies would take ESG seriously if consumers changed behaviors*" ([source](https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/...)).  
+6. **Personal Finance**: Traded options ("*Crazy gains, what now?*") and frugality tips ("*Track purchase gratification*").  
+7. **Gardening**: Troubleshoots dying English ivy plants in r/gardening.  
+
+---
+
+### **Writing Style/Tone**:  
+- **Analytical**: Structured breakdowns (e.g., numbered game strategies, ESG mockups).  
+- **Self-Deprecating Humor**: "*I’m the old person*" bar anecdote.  
+- **Technical Jargon**: Discusses "*M1 MBP latency*" and AR development challenges.  
+- **Conversational**: Casual exchanges in gaming subs ("*Iykyk*" in Zomboid advice).  
+
+---
+
+### **Subreddits Frequented**:  
+- **Tech**: r/VisionPro, r/visionosdev, r/ChatGPT.  
+- **Gaming**: r/ManorLords, r/civ5, r/OnePiece.  
+- **Finance**: r/stocks, r/wallstreetbets.  
+- **Lifestyle**: r/FoodNYC, r/GenZ, r/Frugal, r/ClimateOffensive.  
+- **Local**: r/newyorkcity, r/AskNYC.  
+
+---
+
+### **Possible Location/Background**:  
+- **Current**: New York City resident ("*three years*" in NYC, mentions Westchester, "*Double Chicken Please*").  
+- **Background**: Likely immigrant from Japan (comments, "*I’m Japanese*" in r/OnePiece). H1B visa holder concerned about exploitation ([post](https://www.reddit.com/r/AskReddit/comments/1hnx8j0/...)).  
+
+---
+
+### **Notable Beliefs/Opinions**:  
+1. **Skeptical of Power Structures**: Critiques the "1%" controlling historical narratives and wealth inequality ("*those with wealth pitting the less fortunate against each other*").  
+2. **Tech Ethics Advocate**: Pushes for VR adoption but critiques corporate greed ("*Ad breaks ruin basketball... get gambling out of the league*").  
+3. **Pro-Immigration**: Defends H1B holders ("*grateful for the opportunity to build a better life*") and international students.  
+4. **Climate Conscious**: Believes individual ESG accountability can drive systemic change.  
+5. **Crypto/NFT Skeptic**: Calls NFTs "*dead*" but holds nostalgia for early concepts ([source](https://www.reddit.com/r/NFT/comments/...)).  
+
+---
+
+**Key Quote (Summarizing Philosophy)**:  
+"*New York City is equally adventurous to each, so who am I to judge how others enjoy this adventurous city.*"  
+— From their post on NYC intern season, blending empathy with self-reflection.  
+
+**Contradictions**:  
+- Tech enthusiast struggling to justify Vision Pro’s cost despite excitement.  
+- Critiques capitalism (ESG focus) but participates in stock trading.  
+
+--- 
+
+This persona reflects a curious, socially conscious immigrant navigating tech, urban life, and pop culture while balancing idealism with pragmatism.
