@@ -42,11 +42,27 @@ cd reddit-user-persona-builder
 Update your `reddit_persona.py` to include your API key:
 
 ```python
-api_key = "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxx"
+from openai import OpenAI
 
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key="sk-or-v1-xxxxxxxxxxxxxxxxxxxxxx"  # Your DeepSeek R1 API Key
+)
+
+def generate_persona_openrouter(prompt):
+    completion = client.chat.completions.create(
+        model="deepseek/deepseek-r1:free",
+        messages=[
+            {"role": "user", "content": prompt}
+        ],
+        extra_headers={
+            "HTTP-Referer": "https://github.com/Abhiudai12"
+        }
+    )
+    return completion.choices[0].message.content
 Then run:
 python reddit_persona.py
-
+```
 ## Technologies Used
 
 - Python  
